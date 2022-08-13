@@ -43,5 +43,5 @@ Gophish returns the following status codes in its API:
 
 | Status Code | Description |
 | :--- | :--- |
-| 201 | `OK` |
+| 202 | `OK` |
 | 404 | `NOT FOUND OR ERROR` |
